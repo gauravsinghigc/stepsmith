@@ -1,0 +1,17 @@
+<link rel="shortcut icon" href="<?php echo APP_INFO['APP_ICON'];?>">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/aos.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/animate.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/font-awesome.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/fontello.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/flaticon.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/flag-icon.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/themify-icons.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/slick.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/prettyPhoto.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/twentytwenty.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/shortcodes.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/main.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/megamenu.css">
+<link rel="stylesheet" type="text/css" href="<?php echo ASSETS_URL;?>/css/responsive.css">
+<link rel='stylesheet' id='rs-plugin-settings-css' href="<?php echo ASSETS_URL;?>/revolution/css/rs6.css">
